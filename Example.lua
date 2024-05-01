@@ -1,6 +1,6 @@
 local lib = loadstring(game:HttpGet"https://raw.githubusercontent.com/qamwxy/VapeUI/main/Vape.txt")()
 
-local win = lib:Window("ChineeseSpyware.xyz",Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
+local win = lib:Window("TestWindow",Color3.fromRGB(44, 120, 224), Enum.KeyCode.RightControl)
 
 local tab = win:Tab("That is indeed a Tab")
 
